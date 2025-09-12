@@ -1,0 +1,5 @@
+# directories
+.idea/
+.ipynb_checkpoints/
+.jupyter/
+.venv/
